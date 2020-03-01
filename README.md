@@ -1,5 +1,6 @@
 # cocktail4u
-Personalized Cocktail Recommender with Fasttext Embedding &amp; cosine similarity
+
+### Personalized Cocktail Recommender with Fasttext Embedding &amp; cosine similarity
 
 
 Detailed Documentations & Development Process can be checked here:
