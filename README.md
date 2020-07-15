@@ -11,9 +11,12 @@ Cocktail Recipe data is collected from [drinksmixer.com](http://www.drinksmixer.
 - Recommend cocktails similar to your favorite one
 - Retrieve variation recipes of your favorite cocktail!
 
-#### How it works:
+<br>
 
-TBU
+## Reproduce the work
+
+1. In the command line, go to the src folder of the project directory: ```$ cd /DIRECTORY/cocktail4u/src/ ```
+2. Run the master script to execute all the python scripts: ```$ python run.py -c "/your_chrome_driver_path.exe"```
 
 <br>
 
